@@ -63,7 +63,8 @@ namespace Forces_3_2020
 
         private void Button2_Click(object sender, EventArgs e)
         {
-
+            double Fx = double.Parse(textBox3.Text);
+            double Fy = double.Parse(textBox4.Text);
         }
 
         private void PictureBox2_Click(object sender, EventArgs e)
